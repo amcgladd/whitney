@@ -9,6 +9,8 @@
 
 .show {
   border: 5px solid red;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .column {
@@ -20,4 +22,16 @@ img {
   padding: 4px;
   max-width: 100%;
   max-height: 100%;
+}
+
+#eighties {
+  background-color: lightgreen;
+}
+
+#nineties {
+  background-color: lightyellow;
+}
+
+#twothousands {
+    background-color: pink;
 }
