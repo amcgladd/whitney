@@ -1,0 +1,9 @@
+.sidebar {
+  float: left;
+  background-color: lightblue;
+  width: 30%;
+}
+
+.show {
+  border: 5px solid red;
+}
