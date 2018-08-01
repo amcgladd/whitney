@@ -33,5 +33,9 @@ img {
 }
 
 #twothousands {
-    background-color: pink;
+  background-color: pink;
+}
+
+.column h2 {
+  font-style: italic;
 }
