@@ -2,6 +2,9 @@
   float: left;
   background-color: lightblue;
   width: 20%;
+  border: 2px dotted purple;
+  padding: 4px;
+  margin: 10px;
 }
 
 .show {
@@ -11,4 +14,10 @@
 .column {
   width: 25%;
   float: left;
+}
+
+img {
+  padding: 4px;
+  max-width: 100%;
+  max-height: 100%;
 }
